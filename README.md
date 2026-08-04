@@ -1,7 +1,6 @@
 # Hello World
 
-Hello World in all existing Programming Languages
-
+Hello World in all existing Programming Languages.
 
 ## Thanks to ...
 
